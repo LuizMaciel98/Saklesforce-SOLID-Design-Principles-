@@ -1,4 +1,4 @@
-# Saklesforce-SOLID-Design-Principles-
+# Salesforce-SOLID-Design-Principles-
 From https://github.com/Coding-With-The-Force/Salesforce-SOLID-Design-Principles-Tutorial-Series
 
 Estou fazendo este repositório para aplicar a teoria do **SOLID** design principles:
